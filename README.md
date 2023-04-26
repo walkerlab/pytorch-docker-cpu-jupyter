@@ -1,15 +1,10 @@
 # pytorch-jupyter
 
-Docker image build on top of walkerlab/pytorch images
+Docker image build on top of ghcr.io/walkerlab/pytorch-docker images
 
 Currently Avaliable Tags:
 ```
-cuda-11.8.0-pytorch-1.13.0-torchvision-0.14.0-torchaudio-0.13.0-ubuntu-22.04
-cuda-11.7.1-pytorch-1.13.0-torchvision-0.13.0-torchaudio-0.13.0-ubuntu-20.04
-cuda-11.6.1-pytorch-1.12.0-torchvision-0.12.0-torchaudio-0.11.0-ubuntu-20.04  
-cuda-11.6.1-pytorch-1.11.0-torchvision-0.12.0-torchaudio-0.11.0-ubuntu-20.04 
-cuda-11.3.1-pytorch-1.12.0-torchvision-0.12.0-torchaudio-0.11.0-ubuntu-20.04
-cuda-11.3.1-pytorch-1.11.0-torchvision-0.12.0-torchaudio-0.11.0-ubuntu-20.04
+pytorch-docker-cpu:pytorch-2.0.0-torchvision-0.15.1-torchaudio-2.0.1
 ```
 
 Important Notes:
